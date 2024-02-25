@@ -68,10 +68,4 @@ Adjusting the hyperparameter (alpha) for the Multinomial Naive Bayes classifier.
 
 
 
-## Future Improvements
-- Experiment with different NLP techniques and models.
-- Fine-tune hyperparameters for better performance.
-- Explore advanced deep learning models for text classification.
-
-
 Feel free to reach out for any questions or suggestions!

@@ -59,7 +59,9 @@ Adjusting the hyperparameter (alpha) for the Multinomial Naive Bayes classifier.
 ## Results
 
 - Multinomial Naive Bayes Accuracy: 90.2%
-  ![Multinomial Naive Bayes Confusion Matrix](https://example.com/path/to/multinomial_nb_confusion_matrix.png)
+  ![Multinomial Naive Bayes Confusion Matrix](https://github.com/monalisaburma/Fake-News-Classifier-using-NLP/assets/122416015/f61558d8-c31d-4020-814e-99a89e6c9e0c)
+
+
 
 - Passive Aggressive Classifier Accuracy: 91.9%
   ![Passive Aggressive Classifier Confusion Matrix](https://github.com/monalisaburma/Fake-News-Classifier-using-NLP/assets/122416015/aa184df4-f7ca-4fa0-8b1b-2158e868f903)
